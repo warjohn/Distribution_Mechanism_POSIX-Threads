@@ -1,0 +1,1 @@
+/usr/bin/clang++-18 -g CMakeFiles/Main.dir/main.cpp.o CMakeFiles/Main.dir/src/pcapReader/pcapreader.cpp.o CMakeFiles/Main.dir/src/Dist/dist.cpp.o CMakeFiles/Main.dir/src/Handlers/handler.cpp.o -o bin/Main  -lpcap
